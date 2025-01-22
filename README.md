@@ -9,7 +9,7 @@ experience: Code Alpha Internship, Open Source Contributions
 interests:
   - Full Stack Development
   - Game Development
-  - Machine Learning
+  - Machine Learning/AI Engineer
   - Content Creation
 ```
 </br>
