@@ -77,10 +77,10 @@ interests:
 
 ## 📫 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/YourProfile](https://www.instagram.com/mehmoodshahidawan_/))
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)]([https://tiktok.com/@YourProfile](https://www.tiktok.com/@mehmooshahidawan))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mehmood-shahid-awan-56018b31a/))
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)]([https://youtube.com/c/YourChannel](https://www.youtube.com/@MSA01team01))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/mehmoodshahidawan_/))
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)]((https://www.tiktok.com/@mehmooshahidawan))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mehmood-shahid-awan-56018b31a/))
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)]((https://www.youtube.com/@MSA01team01))
 
 ## 💡 Programming Quote
 
