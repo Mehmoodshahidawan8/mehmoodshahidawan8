@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=😎+MEHMOOD+SHAHID+AWAN;👨‍💻+Full+Stack+Developer;🚀+Certified+Software+Engineer;🌟+MEAN+and+MERN+Stack+Developer;;🔗+GitHub+Profile:+mehmoodshahidawan8&font=Roboto&size=32&duration=3500&pause=500&center=true&vCenter=true&width=700&height=60&color=00FF00">
 </a>
 
+
 # 🚀 About Me
 
 ```yaml
@@ -69,6 +70,10 @@ interests:
 - 📝 [Calculator]([https://github.com/YourGitHubUsername/notes-app](https://github.com/Mehmoodshahidawan8/Calculator))
 - 👨‍💻 [PORTFOLIO]([https://github.com/YourGitHubUsername/google-auth-mern](https://github.com/Mehmoodshahidawan8/PORTFOLIO))
 - 🌸 [Dynamic Flower]([[https://github.com/YourGitHubUsername/google-auth-mern](https://github.com/Mehmoodshahidawan8/PORTFOLIO)](https://github.com/Mehmoodshahidawan8/Flowers))
+<p align="right">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
 
 
 
