@@ -90,9 +90,8 @@ interests:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mehmood-shahid-awan-56018b31a/))
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)]((https://www.youtube.com/@MSA01team01))
 
-## 💡 Programming Quote
-
-> "Talk is cheap. Show me the code." – Linus Torvalds
+### ✍️ Programming Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
