@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
 <a href="https://github.com/mehmoodshahidawan8">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=😎+MEHMOOD+SHAHID+AWAN;👨‍💻+Full+Stack+Developer;🚀+Certified+Software+Engineer;🌟+MEAN+and+MERN+Stack+Developer;;🔗+GitHub+Profile:+mehmoodshahidawan8&font=Roboto&size=32&duration=3500&pause=500&center=true&vCenter=true&width=700&height=60&color=00FF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=😎+MEHMOOD+SHAHID+AWAN;👨‍💻+Full+Stack+Developer;🚀+Certified+Software+Engineer;🌟🔗+GitHub+Profile:+mehmoodshahidawan8&font=Roboto&size=32&duration=3500&pause=500&center=true&vCenter=true&width=700&height=60&color=00FF00">
 </a>
 
 
