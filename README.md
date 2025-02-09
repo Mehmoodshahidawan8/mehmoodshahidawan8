@@ -1,4 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0E00&width=435&lines=MEHMOOD+SHAHID+AWAN)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14FF00&width=435&lines=Full+Stack+developer+)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1CFF00&width=435&lines=Certified+Software+Engineer)](https://git.io/typing-svg)</br>
 
 # 🚀 About Me
 
