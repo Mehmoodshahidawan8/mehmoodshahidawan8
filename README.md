@@ -61,10 +61,10 @@ Find Me
 
 ## 📌 Featured Projects
 
-- 👷‍♂️ [CIvil Engineer Website Front-End]([https://github.com/mehmoodshahidawan8/car-selling-website](https://github.com/Mehmoodshahidawan8/Civil-Engineer-website))
-- 📝 [Calculator]([https://github.com/mehmoodshahidawan8/notes-app](https://github.com/Mehmoodshahidawan8/Calculator))
-- 👨‍💻 [PORTFOLIO]([https://github.com/mehmoodshahidawan8/google-auth-mern](https://github.com/Mehmoodshahidawan8/PORTFOLIO))
-- 🌸 [Dynamic Flower]([[https://github.com/mehmoodshahidawan8/google-auth-mern](https://github.com/Mehmoodshahidawan8/PORTFOLIO)](https://github.com/Mehmoodshahidawan8/Flowers))
+- 👷‍♂️ [CIvil Engineer Website Front-End](https://github.com/Mehmoodshahidawan8/Civil-Engineer-website)
+- 📝 [Calculator](https://github.com/Mehmoodshahidawan8/Calculator)
+- 👨‍💻 [PORTFOLIO](https://github.com/Mehmoodshahidawan8/PORTFOLIO)
+- 🌸 [Dynamic Flower](https://github.com/Mehmoodshahidawan8/Flowers)
 <p align="right">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
@@ -80,10 +80,10 @@ Find Me
 
 ## 📫 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/mehmoodshahidawan_/))
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)]((https://www.tiktok.com/@mehmooshahidawan))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mehmood-shahid-awan-56018b31a/))
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)]((https://www.youtube.com/@MSA01team01))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mehmoodshahidawan_/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mehmooshahidawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmood-shahid-awan-56018b31a/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MSA01team01)
 
 ### ✍️ Programming Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
